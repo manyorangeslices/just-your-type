@@ -1,37 +1,13 @@
-@-moz-viewport { width: device-width; scale: 1; }
-@-ms-viewport { width: device-width; scale: 1; }
-@-o-viewport { width: device-width; scale: 1; }
-@-webkit-viewport { width: device-width; scale: 1; }
-@viewport { width: device-width; scale: 1; }
-
-html {
-  -moz-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  text-size-adjust: 100%;
-  box-sizing: border-box;
-
-  font-family: Georgia, serif;
+h1, h2, h3 {
+  font-family: "Trade Winds", cursive;
 }
 
-*, *::before, *::after {
-  box-sizing: inherit;
+p {
+  font-family: "Raleway", sans-serif;
+  float: right;
 }
 
-body {
-  margin: 0;
+.virginia {
+  position: relative;
+  transform: translate(-99%, -95%);
 }
-
- h1, h2, h3 {
-   font-family: 'Trade Winds', cursive;
- }
-
- p {
-   font-family: 'Raleway', sans-serif;
-   float: right;
- }
-
- .virginia {
-   position: relative;
-   transform: translate(-99%, -95%);
- }
