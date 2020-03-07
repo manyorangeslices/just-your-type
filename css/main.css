@@ -1,13 +1,31 @@
+html {
+
+}
+
 h1, h2, h3 {
-  font-family: "Trade Winds", cursive;
+  font-family: 'Mansalva', cursive;
+  color: #00000;
 }
 
 p {
-  font-family: "Raleway", sans-serif;
-  float: right;
+font-family: 'Spartan', sans-serif;
+  color: lightblue;
+  letter-spacing: 2px;
 }
 
-.virginia {
-  position: relative;
-  transform: translate(-99%, -95%);
+dd, dt {
+  font-family: 'Spartan', sans-serif;
+  letter-spacing: 5px;
+}
+
+.chorus {
+  border-left: 4px solid black;
+
+}
+.places {
+  border-right: 4px solid black;
+}
+
+.denver {
+  border-bottom: 4px double black;
 }
