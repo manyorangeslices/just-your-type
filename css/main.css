@@ -7,7 +7,7 @@ h1, h2, h3 {
   color: #435b5a;
 }
 
-h1, h2:hover {
+h1:hover {
   color: #b68688;
 }
 
