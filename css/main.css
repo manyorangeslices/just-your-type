@@ -1,31 +1,49 @@
 html {
-
+background-color: #eceeee;
 }
 
 h1, h2, h3 {
-  font-family: 'Mansalva', cursive;
-  color: #00000;
+  font-family: 'East Sea Dokdo', cursive;
+  color: #435b5a;
+}
+
+h1,h2:hover {
+  color: #B68688;
 }
 
 p {
 font-family: 'Spartan', sans-serif;
-  color: lightblue;
+  color: #92A8D1;
   letter-spacing: 2px;
+}
+p:hover {
+  background-color: #283636;
+  color: #D4D6D6;
+  border-bottom: 10px double #F2F2F2;
 }
 
 dd, dt {
   font-family: 'Spartan', sans-serif;
   letter-spacing: 5px;
+  color:  #1B1414;
+}
+
+dd:hover {
+  color: #B68688;
+}
+
+dd {
+  color: #283636;
 }
 
 .chorus {
-  border-left: 4px solid black;
+  border-left: 4px solid #1B1414;
 
 }
 .places {
-  border-right: 4px solid black;
+  border-right: 4px solid #1B1414;
 }
 
 .denver {
-  border-bottom: 4px double black;
+  border-bottom: 10px double #334432;
 }
