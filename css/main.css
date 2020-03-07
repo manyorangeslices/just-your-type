@@ -1,5 +1,5 @@
 html {
-background-color: #eceeee;
+  background-color: #eceeee;
 }
 
 h1, h2, h3 {
@@ -12,10 +12,11 @@ h1, h2:hover {
 }
 
 p {
-font-family: Spartan, sans-serif;
+  font-family: Spartan, sans-serif;
   color: #92a8d1;
   letter-spacing: 2px;
 }
+
 p:hover {
   background-color: #283636;
   color: #d4d6d6;
@@ -39,6 +40,7 @@ dd {
 .chorus {
   border-left: 4px solid #1b1414;
 }
+
 .places {
   border-right: 4px solid #1b1414;
 }
