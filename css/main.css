@@ -3,7 +3,7 @@ background-color: #eceeee;
 }
 
 h1, h2, h3 {
-  font-family: 'East Sea Dokdo', cursive;
+  font-family: "East Sea Dokdo", cursive;
   color: #435b5a;
 }
 
@@ -12,18 +12,18 @@ h1,h2:hover {
 }
 
 p {
-font-family: 'Spartan', sans-serif;
+font-family: Spartan, sans-serif;
   color: #92a8d1;
   letter-spacing: 2px;
 }
 p:hover {
   background-color: #283636;
   color: #d4d6d6;
-  border-bottom: 10px double #F2F2F2;
+  border-bottom: 10px double #f2f2f2;
 }
 
 dd, dt {
-  font-family: 'Spartan', sans-serif;
+  font-family: Spartan, sans-serif;
   letter-spacing: 5px;
   color:  #1b1414;
 }
