@@ -8,24 +8,24 @@ h1, h2, h3 {
 }
 
 h1,h2:hover {
-  color: #B68688;
+  color: #b68688;
 }
 
 p {
 font-family: 'Spartan', sans-serif;
-  color: #92A8D1;
+  color: #92a8d1;
   letter-spacing: 2px;
 }
 p:hover {
   background-color: #283636;
-  color: #D4D6D6;
+  color: #d4d6d6;
   border-bottom: 10px double #F2F2F2;
 }
 
 dd, dt {
   font-family: 'Spartan', sans-serif;
   letter-spacing: 5px;
-  color:  #1B1414;
+  color:  #1b1414;
 }
 
 dd:hover {
