@@ -29,7 +29,7 @@ dd, dt {
 }
 
 dd:hover {
-  color: #B68688;
+  color: #b68688;
 }
 
 dd {
@@ -37,11 +37,11 @@ dd {
 }
 
 .chorus {
-  border-left: 4px solid #1B1414;
+  border-left: 4px solid #1b1414;
 
 }
 .places {
-  border-right: 4px solid #1B1414;
+  border-right: 4px solid #1b1414;
 }
 
 .denver {
